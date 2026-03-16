@@ -58,7 +58,7 @@ Handling missing values.
 Formatting columns properly.
 
 
-6. Data Analysis Techniques
+# Data Analysis Techniques
 
 The following techniques were applied:
 
